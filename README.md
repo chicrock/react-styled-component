@@ -1,5 +1,9 @@
 # react-styled-component
 
+## nicolas's styled-awesomeness
+
+* []()
+
 ## Get colors package
 
 * [FLAT UI COLORS](https://flatuicolors.com/)
@@ -27,3 +31,13 @@
 ```bash
 ]$ yarn add styled-components-breakpoint
 ```
+
+## Extra usage
+
+* [Nicolas's styled component usage](https://github.com/serranoarevalo/styled-awesomeness/blob/master/07-extras/extras.md)
+
+* [styled-components-breakpoint](https://github.com/jameslnewell/styled-components-breakpoint)
+
+* [styled-flex-component](https://github.com/SaraVieira/styled-flex-component)
+
+* [styled-reset](https://github.com/zacanger/styled-reset)
